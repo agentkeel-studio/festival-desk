@@ -17,7 +17,7 @@ model:
   region: us-west-2
 judge_model_id: null
 guardrail:
-  id: fest1va1desk
+  id: at8e36cosq1r
   version: "1"
 endpoint_allowlist:
 - bedrock-runtime
