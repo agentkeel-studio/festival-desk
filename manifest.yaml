@@ -48,4 +48,7 @@ seats:
   engineering: andaro74
 may_call: []
 may_be_called_by: []
+callers:
+- subject: lantern-desk
+  issuer: self
 platform_version: m08
